@@ -9,7 +9,7 @@ export default function Skills({ darkMode }) {
       borderColor: 'border-cyber-cyan/20 hover:border-cyber-cyan',
       glowShadow: 'hover:shadow-neon-cyan shadow-cyan-500/10',
       badgeColor: 'bg-cyber-cyan/5 border-cyber-cyan/30 text-cyber-cyan hover:bg-cyber-cyan/10',
-      skills: ['C++', 'Python', 'JavaScript (ES6+)', 'SQL', 'HTML5 & CSS3']
+      skills: ['C++', 'Python','Java','JavaScript', 'SQL', 'HTML5 & CSS3']
     },
     {
       title: 'Frontend Stacks',
