@@ -32,6 +32,21 @@ export default function Education({ darkMode }) {
       ],
       glowColor: 'bg-neon-magenta shadow-neon-magenta',
       iconBorder: 'border-neon-magenta/30'
+    },
+    {
+      degree: 'Matriculation (X — General)',
+      institution: 'S D High School,Shivsagar,Rohtas, Bihar',
+      period: '2020 — 2022',
+      location: 'India',
+      gpa: '81.0% / First Division',
+      highlights: [
+        'Specialization in Mathematics, Science,Socail Science ,Sanskrit , Hindi and English (General)',
+        'Built a strong foundation in analytical methodologies and algebraic problems',
+        'Excelled in logical reasoning and statistical problem-solving models',
+        'Learning history and culture of India and world',
+      ],
+      glowColor: 'bg-neon-magenta shadow-neon-magenta',
+      iconBorder: 'border-neon-magenta/30'
     }
   ];
 
