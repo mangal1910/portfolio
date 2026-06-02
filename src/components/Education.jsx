@@ -20,7 +20,7 @@ export default function Education({ darkMode }) {
     },
     {
       degree: 'Senior Secondary Education (XII — PCM)',
-      institution: 'S.p.Jain College, Sasaram, Bihar',
+      institution: 'S.P.Jain College, Sasaram, Bihar',
       period: '2020 — 2022',
       location: 'India',
       gpa: '68.8% / First Division',

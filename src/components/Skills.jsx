@@ -33,7 +33,7 @@ export default function Skills({ darkMode }) {
       borderColor: 'border-amber-500/20 hover:border-amber-500',
       glowShadow: 'hover:shadow-neon-yellow shadow-amber-500/10',
       badgeColor: 'bg-amber-500/5 border-amber-500/30 text-amber-400 hover:bg-amber-500/10',
-      skills: ['Git & GitHub', 'VS Code', 'Netlify', 'Streamlit Cloud', 'HackerRank (5-Star C++)', 'REST APIs']
+      skills: ['Git & GitHub','OracleDB','MongoDB','VS Code','Postman','Jupyter Notebook', 'Netlify', 'Streamlit Cloud', 'HackerRank (5-Star C++)', 'REST APIs']
     }
   ];
 

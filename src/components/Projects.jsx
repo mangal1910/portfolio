@@ -16,7 +16,7 @@ export default function Projects({ darkMode }) {
       ],
       tech: ['React.js', 'Redux', 'Tailwind CSS', 'Vite', 'Node.js & Express'],
       deployUrl: 'https://velosecom.netlify.app/',
-      githubUrl: 'https://github.com/mangal1910',
+      githubUrl: 'https://github.com/mangal1910/E-commerce-platform',
       icon: <ShoppingBag className="w-6 h-6 text-cyber-cyan" />,
       accentColor: 'cyber-cyan',
       glowShadow: 'hover:shadow-neon-cyan hover:border-cyber-cyan border-cyan-500/20',
@@ -35,11 +35,30 @@ export default function Projects({ darkMode }) {
       ],
       tech: ['Python', 'Streamlit', 'Scikit-Learn', 'Pandas & NumPy', 'Machine Learning'],
       deployUrl: 'https://mangal1910-deploymodeltest-app-try4ws.streamlit.app/',
-      githubUrl: 'https://github.com/mangal1910',
+      githubUrl: 'https://github.com/mangal1910/CustomerChurnPrediction',
       icon: <Database className="w-6 h-6 text-neon-magenta" />,
       accentColor: 'neon-magenta',
       glowShadow: 'hover:shadow-neon-magenta hover:border-neon-magenta border-magenta-500/20',
       tagColor: 'bg-neon-magenta/5 border-neon-magenta/20 text-neon-magenta'
+    },
+    {
+      id: 'Photo-Gallery',
+      title: 'Photo Gallery',
+      subtitle: 'Modern Photo Album',
+      description: 'A modern photo gallery application with a clean and intuitive interface for browsing and organizing images.',
+      features: [
+        'Interactive photo browsing with smooth transitions and responsive design',
+        'Search and filter functionality to easily find specific photos',
+        'Fully responsive and visually cohesive interface styled with Tailwind CSS',
+        'Optimized page loads and smooth image assets caching configurations'
+      ],
+      tech: ['React.js', 'Tailwind CSS', 'Vite'],
+      deployUrl: 'https://lustrous-cajeta-009029.netlify.app/',
+      githubUrl: 'https://github.com/mangal1910/Photo_Gallery',
+      icon: <ShoppingBag className="w-6 h-6 text-cyber-cyan" />,
+      accentColor: 'cyber-cyan',
+      glowShadow: 'hover:shadow-neon-cyan hover:border-cyber-cyan border-cyan-500/20',
+      tagColor: 'bg-cyber-cyan/5 border-cyber-cyan/20 text-cyber-cyan'
     }
   ];
 
