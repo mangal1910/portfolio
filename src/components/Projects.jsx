@@ -14,7 +14,7 @@ export default function Projects({ darkMode }) {
         'Fully responsive and visually cohesive interface styled with Tailwind CSS',
         'Optimized page loads and smooth image assets caching configurations'
       ],
-      tech: ['React.js', 'Redux', 'Tailwind CSS', 'Vite', 'Node.js & Express'],
+      tech: ['React.js', 'Redux', 'Tailwind CSS', 'Vite', 'Node.js & Express','MongoDB','FastAPI','Machine Learning Algorithms'],
       deployUrl: 'https://velosecom.netlify.app/',
       githubUrl: 'https://github.com/mangal1910/E-commerce-platform',
       icon: <ShoppingBag className="w-6 h-6 text-cyber-cyan" />,
