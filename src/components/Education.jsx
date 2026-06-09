@@ -36,7 +36,7 @@ export default function Education({ darkMode }) {
     {
       degree: 'Matriculation (X — General)',
       institution: 'S D High School,Shivsagar,Rohtas, Bihar',
-      period: '2020 — 2022',
+      period: '2018 — 2020',
       location: 'India',
       gpa: '81.0% / First Division',
       highlights: [
